@@ -46,3 +46,6 @@ async function fetchPokemonData() {
     console.error(error);
   }
 }
+
+
+//Unable to pull for API as intended, restarted this mutiple time and changed the entire project thinking it was the API and not the code. i can not locate a error
